@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>The Andy Corporation</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background: #0d0d0d;
+      color: white;
+      font-family: Arial, sans-serif;
+    }
+
+    .container {
+      max-width: 1000px;
+      margin: auto;
+      padding: 40px 20px;
+    }
+
+    h1, h2 {
+      background: linear-gradient(to right, #add8e6, #f5deb3, #dda0dd);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
+    p {
+      color: #ccc;
+      line-height: 1.6;
+    }
+
+    .logo {
+      width: 120px;
+      display: block;
+      margin: 0 auto 20px;
+      filter: drop-shadow(0 0 5px #999);
+    }
+
+    .section {
+      margin-bottom: 60px;
+    }
+
+    footer {
+      text-align: center;
+      color: #888;
+      padding: 20px 0;
+      border-top: 1px solid #333;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <img src="IMG_20250712_173409.PNG" alt="Logo" class="logo" />
+
+    <h1>Selamat Datang di The Andy Corporation</h1>
+    <p>Kami adalah perusahaan yang bergerak di bidang teknologi kreatif dan inovatif, membangun solusi yang modern dan efisien untuk kebutuhan masa depan.</p>
+
+    <div class="section">
+      <h2>Tentang Kami</h2>
+      <p>The Andy Corporation didirikan dengan tujuan menghadirkan produk dan layanan terbaik yang memadukan teknologi, desain, dan efisiensi. Kami percaya bahwa masa depan dibangun oleh kreativitas dan semangat untuk berkembang.</p>
+    </div>
+
+    <div class="section">
+      <h2>Produk Kami</h2>
+      <p>Kami menawarkan beragam produk, mulai dari aplikasi digital, sistem otomatisasi, hingga solusi desain dan teknologi visual. Setiap produk dirancang untuk memberikan pengalaman maksimal bagi pengguna.</p>
+    </div>
+
+    <div class="section">
+      <h2>Saluran & Kontak</h2>
+      <p>Untuk kerja sama atau pertanyaan, silakan hubungi kami melalui email: <strong>contact@andycorp.id</strong> atau kunjungi saluran resmi kami di media sosial dan platform video.</p>
+    </div>
+  </div>
+
+  <footer>
+    &copy; 2025 The Andy Corporation. All rights reserved.
+  </footer>
+
+</body>
+</html>
